@@ -10,6 +10,6 @@ Design and Develop Modern Ecommerce Plafform
 
 
 ## Plugin 
--WooCommerce 
--Elementor 
--PDF ....
+- WooCommerce 
+- Elementor 
+- PDF ....
