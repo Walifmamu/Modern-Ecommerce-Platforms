@@ -38,4 +38,7 @@
 
 
 
+![Digram img](img/7.png)
+
+
 
