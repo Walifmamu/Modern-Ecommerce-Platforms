@@ -22,9 +22,19 @@
 
 
 ![Digram img](img/4.png)
+
+  - Add to Cart: The selected products are added to the customer's shopping cart.
+
 ![Digram img](img/5.png)
+
+- Check Out Process: The process to Checkout the product.
+   - Fill the shipping detail: The customer fill their shipping detail.
+
 ![Digram img](img/6.png)
-![Digram img](img/7.png)
+
+ - Identify payment method: Payment information, such as Prompay details, is entered.
+
+![Digram img](img/8.png)
 
 
 
