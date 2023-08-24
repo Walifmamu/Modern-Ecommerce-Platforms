@@ -21,6 +21,11 @@
 - Website
 
 
+![Digram img](img/4.png)
+![Digram img](img/5.png)
+![Digram img](img/6.png)
+![Digram img](img/7.png)
+
 
 
 
