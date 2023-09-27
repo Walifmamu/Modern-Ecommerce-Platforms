@@ -6,7 +6,7 @@
 
 
 # Software and Tools Used
-- Laragon: Laragon is utilized as our local development environment, providing a convenient platform for building and testing the Boo Shop E-Commerce Website before deployment.
+- Laragon: Laragon is utilized as our local development environment, providing a convenient platform for building and testing the t-shirt shop E-Commerce Website before deployment.
 
 - WordPress: WordPress serves as the primary content management system (CMS) for our website, offering a flexible and user-friendly environment for managing web content.
 
