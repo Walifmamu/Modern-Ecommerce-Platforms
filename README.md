@@ -2,6 +2,18 @@
 # Design and Develop Modern Ecommerce Plafform
 <br>
  This project is about developing an e-commerce website for Walif Shop, a t-shirt shop. The website will be built using the WordPress content management system (CMS) and will include the WooCommerce plugin to facilitate a seamless e-commerce experience. This platform will allow Walif Shop customers to browse, choose and order online. and comfortable
+
+
+
+# Software and Tools Used
+- Laragon: Laragon is utilized as our local development environment, providing a convenient platform for building and testing the Boo Shop E-Commerce Website before deployment.
+
+- WordPress: WordPress serves as the primary content management system (CMS) for our website, offering a flexible and user-friendly environment for managing web content.
+
+- WooCommerce: WooCommerce is integrated seamlessly with WordPress, empowering our website with e-commerce capabilities, including product management, shopping cart functionality, and secure payment processing.
+
+
+- PDF Invoices & Packing Slips for WooCommerce: PDF Invoices & Packing Slips for WooCommerce is responsible for generating professional invoices and packing slips for customer orders, ensuring a smooth and professional shopping experience.
  
 ![Digram img](img/1.png)
 ![Digram img](img/2.png)
