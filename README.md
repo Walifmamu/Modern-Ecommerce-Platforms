@@ -12,8 +12,9 @@
 
 - WooCommerce: WooCommerce is integrated seamlessly with WordPress, empowering our website with e-commerce capabilities, including product management, shopping cart functionality, and secure payment processing.
 
-
 - PDF Invoices & Packing Slips for WooCommerce: PDF Invoices & Packing Slips for WooCommerce is responsible for generating professional invoices and packing slips for customer orders, ensuring a smooth and professional shopping experience.
+
+-  Opn Payments: Opn Payments has been integrated to expand our payment gateway options, providing customers with even more flexibility in how they pay for their purchases.
  
 ![Digram img](img/1.png)
 ![Digram img](img/2.png)
@@ -35,7 +36,9 @@
 
 ## All Pools in BPMN
 - Customer
+- Admin
 - Website
+- Delivery
 
 
 ![Digram img](img/4.png)
