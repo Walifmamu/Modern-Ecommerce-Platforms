@@ -16,12 +16,7 @@
 - PDF Invoices & Packing Slips for WooCommerce: PDF Invoices & Packing Slips for WooCommerce is responsible for generating professional invoices and packing slips for customer orders, ensuring a smooth and professional shopping experience.
 
 - Akismet Anti-Spam: Spam Protection   Used by millions, Akismet is quite possibly the best way in the world to protect your blog from spam. Akismet anti spam keeps your site protected even while you sleep. To get started: activate the Akismet plugin and then go to your Akismet Settings page to set up your API key.
-  
-# HomePage
- 
-![Digram img](img/1.png)
-![Digram img](img/2.png)
-![Digram img](img/3.png)
+
 ## Project Overviw
 - Plugin
 - WooCommerce
@@ -31,6 +26,12 @@
 
 ## Theames
 - YITH Wonder
+  
+# HomePage
+![Digram img](img/1.png)
+![Digram img](img/2.png)
+![Digram img](img/3.png)
+
 
 ## All Pools in BPMN
 - Customer
