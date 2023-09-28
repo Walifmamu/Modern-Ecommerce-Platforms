@@ -59,9 +59,10 @@
 
 ![Digram img](img/8.png)
 
-
 ![Digram img](img/7.png)
+
+# Oder
 
 ![Digram img](img/aa.png)
 
-- Solution
+# Solution
