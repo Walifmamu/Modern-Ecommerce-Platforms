@@ -20,7 +20,6 @@
 ## Project Overviw
 - Plugin
 - WooCommerce
-- Elementor
 - PDF Invoices & Packing Slips for WooCommerce
 -  Akismet Anti-Spam: Spam Protection
 
