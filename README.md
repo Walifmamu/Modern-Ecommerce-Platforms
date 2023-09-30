@@ -18,8 +18,6 @@
 
 - Opn Payments is a WordPress plugin designed specifically for WooCommerce. The plugin adds support for Opn Payments Payment Gateway's payment methods to WooCommerce.
 
-- Akismet Anti-Spam: Spam Protection   Used by millions, Akismet is quite possibly the best way in the world to protect your blog from spam. Akismet anti spam keeps your site protected even while you sleep. To get started: activate the Akismet plugin and then go to your Akismet Settings page to set up your API key.
-
 - PeproDev WooCommerce Receipt Uploader     Upload Receipt for Any Payment method in WooCommerce. Customers will Upload the receipt (image/pdf) and Shop Managers will approve/reject it manually
 Upload Receipt for Any Payment method in WooCommerce. Customers will Upload the receipt (image/pdf) and Shop Managers will approve/reject it manually
 
@@ -29,7 +27,6 @@ Upload Receipt for Any Payment method in WooCommerce. Customers will Upload the 
 - Laragon
 - WooCommerce
 - PDF Invoices & Packing Slips for WooCommerce
--  Akismet Anti-Spam: Spam Protection
 -  Opn Payments
 -  PeproDev WooCommerce Receipt Uploader 
 
