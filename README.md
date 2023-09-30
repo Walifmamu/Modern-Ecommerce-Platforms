@@ -1,6 +1,7 @@
 ## Modern-Ecommerce-Platforms
 # Design and Develop Modern Ecommerce Plafform
-
+ This project involves creating a simple modern e-commerce platform using Wordpress forms and includes modeling of business process systems from customer until delivery.
+ 
 # Introduction
  This project is about developing an e-commerce website for , a t-shirt shop. The website will be built using the WordPress content management system and will include the WooCommerce plugin to facilitate a seamless e-commerce experience. This platform will allow customers to browse, choose and order online comfortable
 
@@ -15,13 +16,21 @@
 
 - PDF Invoices & Packing Slips for WooCommerce: PDF Invoices & Packing Slips for WooCommerce is responsible for generating professional invoices and packing slips for customer orders, ensuring a smooth and professional shopping experience.
 
+- Opn Payments is a WordPress plugin designed specifically for WooCommerce. The plugin adds support for Opn Payments Payment Gateway's payment methods to WooCommerce.
+
 - Akismet Anti-Spam: Spam Protection   Used by millions, Akismet is quite possibly the best way in the world to protect your blog from spam. Akismet anti spam keeps your site protected even while you sleep. To get started: activate the Akismet plugin and then go to your Akismet Settings page to set up your API key.
 
+- PeproDev WooCommerce Receipt Uploader 
+
 ## Project Overviw
-- Plugin
+
+## The main plugins that I use 
+- Laragon
 - WooCommerce
 - PDF Invoices & Packing Slips for WooCommerce
 -  Akismet Anti-Spam: Spam Protection
+-  Opn Payments
+-  PeproDev WooCommerce Receipt Uploader 
 
 ## Theames
 - YITH Wonder
