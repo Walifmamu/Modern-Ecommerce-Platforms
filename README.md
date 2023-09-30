@@ -22,7 +22,6 @@
 
 - PeproDev WooCommerce Receipt Uploader 
 
-## Project Overviw
 
 ## The main plugins that I use 
 - Laragon
