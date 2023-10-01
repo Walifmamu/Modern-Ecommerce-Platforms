@@ -16,8 +16,6 @@
 
 - PDF Invoices & Packing Slips for WooCommerce: PDF Invoices & Packing Slips for WooCommerce is responsible for generating professional invoices and packing slips for customer orders, ensuring a smooth and professional shopping experience.
 
-- Opn Payments is a WordPress plugin designed specifically for WooCommerce. The plugin adds support for Opn Payments Payment Gateway's payment methods to WooCommerce.
-
 - PeproDev WooCommerce Receipt Uploader     Upload Receipt for Any Payment method in WooCommerce. Customers will Upload the receipt (image/pdf) and Shop Managers will approve/reject it manually
 Upload Receipt for Any Payment method in WooCommerce. Customers will Upload the receipt (image/pdf) and Shop Managers will approve/reject it manually
 
@@ -27,7 +25,6 @@ Upload Receipt for Any Payment method in WooCommerce. Customers will Upload the 
 - Laragon
 - WooCommerce
 - PDF Invoices & Packing Slips for WooCommerce
--  Opn Payments
 -  PeproDev WooCommerce Receipt Uploader 
 
 ## Theames
@@ -70,7 +67,9 @@ Upload Receipt for Any Payment method in WooCommerce. Customers will Upload the 
 
 # Uplord order
 ![Digram img](img/Slip.png)
+
 # Oder
 ![Digram img](img/order.png)
+
 # Conclution
 E-Commerce Website is a testament to the power of digital of online shop  for easy ordering
