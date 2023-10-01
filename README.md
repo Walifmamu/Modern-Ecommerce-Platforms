@@ -46,7 +46,7 @@ Upload Receipt for Any Payment method in WooCommerce. Customers will Upload the 
 - Delivery
 
 ## BPMN Diagram
-![Digram img](img/377902141_690977509719209_3404472861495042614_n.png)
+![Digram img](img/paradigram.png)
 
 
 
@@ -68,9 +68,9 @@ Upload Receipt for Any Payment method in WooCommerce. Customers will Upload the 
 
 ![Digram img](img/7.png)
 
+# Uplord order
+![Digram img](img/Slip.png)
 # Oder
-
-![Digram img](img/aa.png)
-
+![Digram img](img/order.png)
 # Conclution
 E-Commerce Website is a testament to the power of digital of online shop  for easy ordering
