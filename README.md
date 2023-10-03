@@ -5,7 +5,13 @@
 # Introduction
  This project is about developing an e-commerce website for , a t-shirt shop. The website will be built using the WordPress content management system and will include the WooCommerce plugin to facilitate a seamless e-commerce experience. This platform will allow customers to browse, choose and order online comfortable
 
+## The main plugins that I use 
+- WooCommerce
+- PDF Invoices & Packing Slips for WooCommerce
+- PeproDev WooCommerce Receipt Uploader 
 
+## Theames
+- YITH Wonder
 
 # Software and Tools Used
 - Laragon: Laragon is utilized as our local development environment, providing a convenient platform for building and testing the t-shirt shop E-Commerce Website before deployment.
@@ -21,14 +27,7 @@ Upload Receipt for Any Payment method in WooCommerce. Customers will Upload the 
 
 
 
-## The main plugins that I use 
-- Laragon
-- WooCommerce
-- PDF Invoices & Packing Slips for WooCommerce
--  PeproDev WooCommerce Receipt Uploader 
 
-## Theames
-- YITH Wonder
   
 # HomePage
 ![Digram img](img/1.png)
