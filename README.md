@@ -25,7 +25,11 @@
 - PeproDev WooCommerce Receipt Uploader: is For   Upload Receipt for Any Payment method in WooCommerce. Customers will Upload the receipt (image/pdf) and Shop Managers will approve/reject it manually
 Upload Receipt for Any Payment method in WooCommerce. Customers will Upload the receipt (image/pdf) and Shop Managers will approve/reject it manually
 
-
+## All in BPMN
+- Customer
+- Admin
+- Website
+- Delivery
 
 ## BPMN Diagram
 ![Digram img](img/paradigram.png)
@@ -36,11 +40,7 @@ Upload Receipt for Any Payment method in WooCommerce. Customers will Upload the 
 ![Digram img](img/3.png)
 
 
-## All in BPMN
-- Customer
-- Admin
-- Website
-- Delivery
+
 
 
 ![Digram img](img/4.png)
