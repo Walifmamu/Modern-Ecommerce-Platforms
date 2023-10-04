@@ -14,15 +14,15 @@
 - YITH Wonder
 
 # Software and Tools Used
-- Laragon: is utilized as our local development environment, providing a convenient platform for building and testing the t-shirt shop E-Commerce Website before deployment.
+- **Laragon**: is utilized as our local development environment, providing a convenient platform for building and testing the t-shirt shop E-Commerce Website before deployment.
 
-- WordPress: WordPress serves as the primary content management system (CMS) for our website, offering a flexible and user-friendly environment for managing web content.
+- **WordPress**: WordPress serves as the primary content management system (CMS) for our website, offering a flexible and user-friendly environment for managing web content.
 
-- WooCommerce: is integrated seamlessly with WordPress, empowering our website with e-commerce capabilities, including product management, shopping cart functionality, and secure payment processing.
+- **WooCommerce**: is integrated seamlessly with WordPress, empowering our website with e-commerce capabilities, including product management, shopping cart functionality, and secure payment processing.
 
-- PDF Invoices & Packing Slips for WooCommerce: is responsible for generating professional invoices and packing slips for customer orders, ensuring a smooth and professional shopping experience.
+- **PDF Invoices & Packing Slips for WooCommerce**: is responsible for generating professional invoices and packing slips for customer orders, ensuring a smooth and professional shopping experience.
 
-- PeproDev WooCommerce Receipt Uploader: is For   Upload Receipt for Any Payment method in WooCommerce. Customers will Upload the receipt (image/pdf) and Shop Managers will approve/reject it manually
+- **PeproDev WooCommerce Receipt Uploader**: is For   Upload Receipt for Any Payment method in WooCommerce. Customers will Upload the receipt (image/pdf) and Shop Managers will approve/reject it manually
 Upload Receipt for Any Payment method in WooCommerce. Customers will Upload the receipt (image/pdf) and Shop Managers will approve/reject it manually
 
 ## All in BPMN
