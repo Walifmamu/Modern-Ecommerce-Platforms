@@ -27,7 +27,8 @@ Upload Receipt for Any Payment method in WooCommerce. Customers will Upload the 
 
 
 
-
+## BPMN Diagram
+![Digram img](img/paradigram.png)
   
 # HomePage
 ![Digram img](img/1.png)
@@ -35,16 +36,11 @@ Upload Receipt for Any Payment method in WooCommerce. Customers will Upload the 
 ![Digram img](img/3.png)
 
 
-## All Pools in BPMN
+## All in BPMN
 - Customer
 - Admin
 - Website
 - Delivery
-
-## BPMN Diagram
-![Digram img](img/paradigram.png)
-
-
 
 
 ![Digram img](img/4.png)
@@ -56,7 +52,7 @@ Upload Receipt for Any Payment method in WooCommerce. Customers will Upload the 
 - Check Out Process: The process to Checkout the product.
    - Fill the shipping detail: The customer fill their shipping detail.
 
-![Digram img](img/6.png)
+![Digram img](img/100.png)
 
  - Identify payment method: Payment information, such as Prompay details, is entered.
 
